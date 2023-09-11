@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "image": "https://i.ibb.co/LtTbm7d/6487427.jpg",
+      "title": "The Mystery of the Hidden Treasure",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/kJXMQpV/FB-IMG-1676919134663.jpg",
+      "postedDate": "September 5, 2023",
+      "readingTime": "10",
+      "hashtags": ["#Mystery", "#TreasureHunt", "#Adventure"]
+    },
+    {
+      "id": 67890,
+      "image": "https://i.ibb.co/LtTbm7d/6487427.jpg",
+      "title": "Cooking Delights: A Culinary Journey",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/kJXMQpV/FB-IMG-1676919134663.jpg",
+      "postedDate": "August 25, 2023",
+      "readingTime": "15",
+      "hashtags": ["#Cooking", "#Foodie", "#Recipes"]
+    },
+    {
+      "id": 23456,
+      "image": "https://i.ibb.co/LtTbm7d/6487427.jpg",
+      "title": "Exploring the Cosmos: A Space Odyssey",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/kJXMQpV/FB-IMG-1676919134663.jpg",
+      "postedDate": "September 10, 2023",
+      "readingTime": "20",
+      "hashtags": ["#Space", "#Astronomy", "#Science"]
+    },
+    {
+      "id": 78901,
+      "image": "https://i.ibb.co/LtTbm7d/6487427.jpg",
+      "title": "Historical Legends: Tales of Ancient Times",
+      "author": "Michael Anderson",
+      "author_img": "https://i.ibb.co/kJXMQpV/FB-IMG-1676919134663.jpg",
+      "postedDate": "September 2, 2023",
+      "readingTime": "12",
+      "hashtags": ["#History", "#Legends", "#Ancient"]
+    },
+    {
+      "id": 34567,
+      "image": "https://i.ibb.co/LtTbm7d/6487427.jpg",
+      "title": "Thrills and Chills: Suspenseful Stories",
+      "author": "Sarah Williams",
+      "author_img": "https://i.ibb.co/kJXMQpV/FB-IMG-1676919134663.jpg",
+      "postedDate": "August 30, 2023",
+      "readingTime": "18",
+      "hashtags": ["#Suspense", "#Thriller", "#ShortStories"]
+    }
+  ]
+  
